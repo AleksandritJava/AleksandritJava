@@ -1,8 +1,8 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<h3 align="center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</h3>
 
 <h1 align="center">Hi 👋, I'm Aleksandr Balabanov</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubick&duration=5500&color=0AB30E&center=true&multiline=true&height=70&lines=A+Java+developer+from+Russia!;I'm+glad+to+see+you+here!)](https://git.io/typing-svg)
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubick&duration=5500&color=0AB30E&center=true&multiline=true&height=70&lines=A+Java+developer+from+Russia!;I'm+glad+to+see+you+here!)](https://git.io/typing-svg)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandritjava&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandritjava" /> </p>
 
