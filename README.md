@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aleksandr Balabanov</h1>
 
-<h3 align="center">.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+Java+developer+from Russian+Federation)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubick&duration=5500&color=0AB30E&center=true&multiline=true&height=70&lines=A+Java+developer+from+Russia!;I'm+glad+to+see+you+here!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandritjava&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandritjava" /> </p>
 
