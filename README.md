@@ -25,7 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandritjava&" alt="aleksandritjava" /></p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=130&section=header&text=Have%20a%20nice%20day!&fontSize=50&animation=fadeIn)
-
-
 
