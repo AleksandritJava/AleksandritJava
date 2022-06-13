@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandritjava&" alt="aleksandritjava" /></p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=256&section=header&text=End%20of%20profile!&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=130&section=header&text=End%20of%20profile!&fontSize=50&animation=fadeIn)
 
 
 
