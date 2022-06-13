@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=512&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
 
-<h1 align="center">Hi 👋, I'm Aleksandr Balabanov</h1>
-
+<p align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=I'm%20Aleksandr%20Balabanov&descAlignY=51&descAlign=62)
+</p>
+  
+ <p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubick&duration=5500&color=0AB30E&center=true&multiline=true&width=1000&height=70&lines=A+Java+developer!;I'm+glad+to+see+you+here!)](https://git.io/typing-svg)
-
+</p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksandritjava&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandritjava" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksandritjava" alt="aleksandritjava" /></a> </p>
