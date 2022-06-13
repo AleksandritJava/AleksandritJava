@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=256&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=256&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubick&duration=5500&color=0AB30E&center=true&multiline=true&width=1000&height=70&lines=I'm+Aleksandr+Balabanov,+a+Java+developer!;I'm+glad+to+see+you+here!)](https://git.io/typing-svg)
 
