@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=256&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=256&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=50&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubick&duration=5500&color=4568dc&left=true&multiline=true&width=1000&height=70&lines=I'm+Aleksandr+Balabanov,+a+Java+developer!;I'm+glad+to+see+you+here!)](https://git.io/typing-svg)
 
@@ -25,6 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandritjava&" alt="aleksandritjava" /></p>
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=256&section=header&text=End%20of%20profile!&fontSize=50&animation=fadeIn)
 
 
 
