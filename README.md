@@ -34,6 +34,10 @@ Backend by trade, systems-thinking by habit. I work across multi-agent pipelines
 - A small **inventory service** (JS + TS) for keeping track of stock in a kindergarten.
 - Two **games** — one in Godot, one in Unreal Engine with a self-written Java server and a C++ client.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AleksandritJava/AleksandritJava/main/sakura.svg" width="100%" alt="Sakura bonsai made of symbols, with petals slowly falling" />
+</div>
+
 ## Education
 
 - **M.Sc.** in *Multi-agent Systems and Networks* — with honours
