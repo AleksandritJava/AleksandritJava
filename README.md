@@ -31,10 +31,6 @@ Backend by trade, systems-thinking by habit. I work across multi-agent pipelines
   <img src="https://skillicons.dev/icons?i=java,spring,py,ts,js,nodejs,postgres,mysql,redis,docker,linux,bash,git,githubactions,gradle,maven,cpp,godot,unreal,idea&theme=dark&perline=10" alt="toolbox" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AleksandritJava/AleksandritJava/main/wisteria.svg" width="100%" alt="Wisteria bonsai made of symbols, with petals falling" />
-</div>
-
 ## Currently
 
 - Building a **multi-agent system in Python** — agents, tools, and the guardrails around them.
@@ -47,11 +43,16 @@ Backend by trade, systems-thinking by habit. I work across multi-agent pipelines
 - **M.Sc.** in *Multi-agent Systems and Networks* — with honours
 - **B.Sc.** in *Information Systems and Technologies* — with honours
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AleksandritJava/AleksandritJava/main/wisteria.svg" width="100%" alt="Wisteria bonsai made of symbols, with petals falling" />
+</div>
+
+
 ## Contact
 
 <p align="left">
   <a href="mailto:aleksandrit2332@gmail.com"><img src="https://img.shields.io/badge/Email-aleksandrit2332%40gmail.com-c9a7e8?style=for-the-badge&logo=gmail&logoColor=1e1b24&labelColor=2a2233" alt="Email" /></a>
-  <a href="https://t.me/your_handle"><img src="https://img.shields.io/badge/Telegram-%40your__handle-c9a7e8?style=for-the-badge&logo=telegram&logoColor=1e1b24&labelColor=2a2233" alt="Telegram" /></a>
+  <a href="https://t.me/Aleksandrit2332"><img src="https://img.shields.io/badge/Telegram-%40Aleksandrit2332-c9a7e8?style=for-the-badge&logo=telegram&logoColor=1e1b24&labelColor=2a2233" alt="Telegram" /></a>
 </p>
 
 <br/>
