@@ -1,15 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2233,100:c9a7e8&height=200&section=header&text=Aleksandr%20Balabanov&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=systems%20%C2%B7%20agents%20%C2%B7%20craft&descAlignY=60&descSize=16&animation=fadeIn" alt="Aleksandr Balabanov" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2233,100:ffb7c5&height=200&section=header&text=Aleksandr%20Balabanov&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=systems%20%C2%B7%20agents%20%C2%B7%20craft&descAlignY=60&descSize=16&animation=fadeIn" alt="Aleksandr Balabanov" />
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=C9A7E8&background=1E1B24&center=true&vCenter=true&width=640&height=60&lines=Multi-agent+systems%2C+calmly+engineered;Backend+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Distributed+servers+and+quiet+craft" alt="typing" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=FFB7C5&background=1E1B24&center=true&vCenter=true&width=640&height=60&lines=Multi-agent+systems%2C+calmly+engineered;Backend+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Python;Distributed+servers+and+quiet+craft" alt="typing" /></a>
 </div>
-
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AleksandritJava/AleksandritJava/main/sakura.svg" width="100%" alt="Sakura bonsai made of symbols, with petals falling" />
 </div>
-
 
 ---
 
@@ -44,7 +41,6 @@ Backend by trade, systems-thinking by habit. I work across multi-agent pipelines
 - A **TypeScript web service for table football** — matches, timers, MMR, seasons, player profiles.
 - A small **inventory service** (JS + TS) for keeping track of stock in a kindergarten.
 - Two **games** — one in Godot, one in Unreal Engine with a self-written Java server and a C++ client.
-
 
 ## Education
 
