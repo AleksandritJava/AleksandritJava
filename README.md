@@ -27,6 +27,10 @@ Backend by trade, systems-thinking by habit. I work across multi-agent pipelines
   <img src="https://skillicons.dev/icons?i=java,spring,py,ts,js,nodejs,postgres,mysql,redis,docker,linux,bash,git,githubactions,gradle,maven,cpp,godot,unreal,idea&theme=dark&perline=10" alt="toolbox" />
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AleksandritJava/AleksandritJava/main/wisteria.svg" width="100%" alt="Wisteria bonsai made of symbols, with petals falling" />
+</div>
+
 ## Currently
 
 - Building a **multi-agent system in Python** — agents, tools, and the guardrails around them.
@@ -35,7 +39,7 @@ Backend by trade, systems-thinking by habit. I work across multi-agent pipelines
 - Two **games** — one in Godot, one in Unreal Engine with a self-written Java server and a C++ client.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AleksandritJava/AleksandritJava/main/wisteria.svg" width="100%" alt="Wisteria bonsai made of symbols, with petals falling" />
+  <img src="https://raw.githubusercontent.com/AleksandritJava/AleksandritJava/main/sakura.svg" width="100%" alt="Sakura bonsai made of symbols, with petals falling" />
 </div>
 
 ## Education
